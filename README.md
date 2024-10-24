@@ -172,7 +172,6 @@ logreg.fit(X_train, y_train)
 
 # Predict on test data
 y_pred = logreg.predict(X_test)
-
 # Evaluate the model
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy:.2f}")
