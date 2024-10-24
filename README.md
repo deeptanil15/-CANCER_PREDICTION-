@@ -22,7 +22,7 @@ Mean compactness, etc.
 First, I imported the necessary libraries for data manipulation, model building, and evaluation.
 
 python
-Copy code
+
 # Importing libraries
 import pandas as pd
 import numpy as np
