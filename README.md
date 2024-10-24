@@ -124,7 +124,6 @@ The classification report provides precision, recall, and F1-score, which are cr
 
 python
 Copy code
-# Classification report
 class_report = classification_report(y_test, y_pred)
 print("Classification Report:\n", class_report)
 
