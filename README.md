@@ -4,7 +4,7 @@
 
 In this project, I developed a system to predict whether a cell is cancerous or not (malignant or benign) using the Logistic Regression algorithm. The system was built using a dataset of features derived from cell nuclei, and Logistic Regression was chosen because it works well for binary classification problems.
 
-## 2. Understanding the Dataset :
+## 2. Understanding the Dataset : 
    
 I used the Breast Cancer Wisconsin dataset, which is widely available in machine learning libraries like scikit-learn. This dataset contains features such as the radius, texture, and smoothness of cell nuclei.
 
